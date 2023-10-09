@@ -1,6 +1,8 @@
 # card_animation
 
-A new Flutter project.
+You know Tinder, right? If you haven’t been living under a rock for the past several years, you must have heard about this fantastic dating app. You’ve swiped right on dozens of potential love interests and made commitments to the ones you liked the most.
+
+And now we’ll learn how to develop a dating app that’s similar to Tinder using Flutter. This article is for readers who have already done some development in Flutter and have intermediate experience.
 
 ## Getting Started
 
